@@ -13,9 +13,12 @@ hobbies: "sport",
 
 ---
 -->
-# bio
-<h1 align="center">I'm Iman Namazi</h1>
+# My Bio
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
+<br>
+<br>
+<h1 align="center">I'm Iman Namazi</h1>
+<h3 align="left"> I’m Iman with over three years of experience . My main skill is MERN Stack development. I can create mobile cross-platform apps with Flutter, and I have good familiarity with Linux as a SysAdmin. Additionally, I can work with some MCUs like NodeMCU, Arduino, and Raspberry Pi. </h3>
 
 <!--
 # My Skills
