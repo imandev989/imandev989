@@ -70,11 +70,11 @@ Frontend
 # My Skills
 | Front End | Back End | Mobile | Others
 | -- | -- | -- | -- 
-| HTML | Express.js ( Node.js ) | Flutter | Shadcn
-| CSS  | Django( Python ) |   | Radix UI
-| Next.js ( React.js ) |  |  | Zustand
-| TaiwindCSS | | | React Query
-| BootStrap |  |  | GetX
+| HTML | Node.js| Flutter | Shadcn
+| CSS  | Express.js |  | Radix UI
+| JavaScript |  |  | Zustand
+| React.js | | | React Query
+| Next.js |  |  | GetX
 
 
 
