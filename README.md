@@ -75,7 +75,7 @@ Frontend
 | HTML | Express.js ( Node.js ) | Flutter | Shadcn
 | CSS  | Django( Python ) |   | Radix UI
 | Next.js ( React.js ) |  |  | Zustand
-| TaiwindCSS | | | Reqct Query
+| TaiwindCSS | | | React Query
 | BootStrap |  |  | GetX
 
 
