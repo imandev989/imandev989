@@ -27,7 +27,7 @@ Frontend
    <ul>
       <li>Express(Node.js)</li>
       <li>Django(Python)</li>
-      <li>JavaScript</li>
+      <li>TypeScript</li>
       <li>Next.js(React.js)</li>        
     </ul>
 </li>
