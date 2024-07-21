@@ -71,10 +71,10 @@ Frontend
 | Front End | Back End | Mobile | Others
 | -- | -- | -- | -- 
 | HTML | Node.js| Flutter | Shadcn
-| CSS  | Express.js |  | Radix UI
+| CSS  | Express.js | GetX | Radix UI
 | JavaScript |  |  | Zustand
 | React.js | | | React Query
-| Next.js |  |  | GetX
+| Next.js |  |  | 
 
 
 
