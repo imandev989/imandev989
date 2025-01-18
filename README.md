@@ -83,8 +83,7 @@ Frontend
 
 
 
-# My Activity
-<img src="https://github-readme-stats.vercel.app/api?username=imandev989&show_icons=true&theme=radical" />
+
 
 # My Projects Languages
 
