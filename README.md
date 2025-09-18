@@ -16,7 +16,11 @@ hobbies: "sport",
 # My Bio
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
-<h3 align="left"> I’m Iman Namazi with over three years of experience . My main skill is MERN Stack development. I can create mobile cross-platform apps with Flutter, and I have good familiarity with Linux as a SysAdmin. Additionally, I can work with some MCUs like NodeMCU, Arduino, and Raspberry Pi. i have over 12 years old of exprience as a software enginner </h3>
+<h3 align="left"> I’m Iman Namazi, a passionate Front-End Developer specializing in React.js and Next.js, with over 4 years of hands-on programming experience and more than 15 years in the software engineering field.
+
+While my main expertise is in front-end development, I also have solid experience in back-end development with Express.js and NestJS, as well as building cross-platform mobile applications using Flutter.
+
+Beyond development, I am also familiar with Linux system administration (LPIC-1 certified) and have experience working with MCUs such as NodeMCU, Arduino, and Raspberry Pi.</h3>
 
 <!--
 # My Skills
