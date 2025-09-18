@@ -20,7 +20,7 @@ hobbies: "sport",
 
 While my main expertise is in front-end development, I also have solid experience in back-end development with Express.js and NestJS, as well as building cross-platform mobile applications using Flutter.
 
-Beyond development, I am also familiar with Linux system administration (LPIC-1 certified) and have experience working with MCUs such as NodeMCU, Arduino, and Raspberry Pi.</h3>
+Beyond development, I am also familiar with Linux system administration (LPIC-1) and have experience working with MCUs such as NodeMCU, Arduino, and Raspberry Pi.</h3>
 
 <!--
 # My Skills
