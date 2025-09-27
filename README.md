@@ -76,7 +76,7 @@ Frontend
 | -- | -- | -- | -- 
 | HTML | Node.js| Flutter | Shadcn
 | CSS  | Express.js | GetX | Radix UI
-| JavaScript | Nest.js |  | Zustand
+| JavaScript | Nest.js | Bloc | Zustand
 | React.js | | | React Query
 | Next.js |  |  | 
 
