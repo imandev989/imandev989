@@ -78,7 +78,7 @@ Frontend
 | CSS  | Express.js | GetX | Radix UI
 | JavaScript | Nest.js | Bloc | Zustand
 | React.js | | | React Query
-| Next.js |  |  | 
+| Next.js |  |  | Redux Toolkit
 
 
 
